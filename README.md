@@ -18,3 +18,6 @@ References
 * [default methods](http://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html) (oracle docs)
 * [optional](http://docs.oracle.com/javase/8/docs/api/java/util/Optional.html) (oracle docs)
 * [reduction](http://docs.oracle.com/javase/tutorial/collections/streams/reduction.html) (oracle docs)
+
+
+![Travis CI](https://travis-ci.org/milpol/java8-playground.svg)
